@@ -1,0 +1,42 @@
+nav {
+  text-align: right;
+  margin-right: 10%;
+  font-size: smaller;
+  color: white;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  text-align: center;
+  background-image: url(https://images.pexels.com/photos/2078266/pexels-photo-2078266.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-size: cover;
+}
+
+table {
+
+  margin-inline: auto;
+  width: 50%;
+  border-collapse: collapse;
+  /* border: 1px solid red; */
+}
+
+td {
+  color: white;
+  /* border: 1px solid red; */
+  width: 20px;
+  height: 20px;
+}
+
+.loadingblue {
+  background-color: aquamarine;
+}
+.loadingwhite {
+  background-color: white;
+}
+.begin {
+  text-align: left;
+}
+.end {
+  text-align: right;
+}
